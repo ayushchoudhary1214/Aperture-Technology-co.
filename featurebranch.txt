@@ -1,1 +1,6 @@
 File from feature Branch
+https://github.com/amitkumar2283/addressbook
+mvn cobertura code metrics
+mvn -p metrics code package
+mvn deploy code deploy
+mvn test
